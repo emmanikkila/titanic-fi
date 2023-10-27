@@ -1,6 +1,6 @@
 # Titanic Dataset Analysis
 
-[Link to raport (FI)](titanic_raportti.ipynb)
+[Link to the raport (FI)](titanic_raportti.ipynb)
 
 # Aim of the Analysis
 The aim was to find differencies, commonalities, and surprises from the data, especially when comparing different embarking towns.
