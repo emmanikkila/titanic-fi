@@ -7,4 +7,4 @@ The aim was to find differencies, commonalities, and surprises from the data, es
 The overall aim to practice data cleaning and visualization by using Numpy, Pandas, Matplotlib, and Seaborn.
 
 # About the Data
-Publicly available Titanic dataset
+Source: [Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
